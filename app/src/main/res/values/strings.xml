@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">S. T. Nagbe Church</string>
+    <string name="officeHours_home">Home</string>
+    <string name="OfficeHours_callUs">Call Us</string>
+    <string name="weeklyActivities1">Day</string>
+    <string name="weeklyActivities2">Time</string>
+    <string name="weeklyActivities3">Monday</string>
+    <string name="weeklyActivitiesP2">Women meeting - Last Monday Monthly ....  5:00-6:30PM</string>
+    <string name="weeklyActivities4">Tuesday</string>
+    <string name="weeklyActivitiesP3">Bible Study..........................................................5:00-6:00PM
+        \nPriase and Worship Practice ......................... 6:00 - 7:00PM</string>
+    <string name="weeklyActivities5">Wednesday</string>
+    <string name="weeklyActivitiesP4">Mid-day Service...................................................12:00 - 1:00PM
+        \nSenior Choir Practice............................................5:00 - 7:00PM\nHorizon Singers Practice.....................................5:00 - 6:30PM</string>
+    <string name="weeklyActivities6">Thursday</string>
+    <string name="weeklyActivitiesP5">Mission and Evangelism...................................5:00 - 6:00PM\nCelebrant Singers Practice.................................5:00 - 7:00PM</string>
+    <string name="weeklyActivities7">Friday</string>
+    <string name="weeklyActivitiesP1">Senior Choir Practice.........................................5:00-6:30PM\n1st Friday Monthly Tarry...............................5:00 - 9:00PM\n2nd and 5th Fridays
+\nHealing and Deliverance Services 12:00 Noon</string>
+    <string name="weeklyActivities9">Sunday</string>
+    <string name="contact1">Matthew A. Jaiah</string>
+    <string name="contact2">Senior Pastor</string>
+    <string name="contact3">No Associate Currently</string>
+    <string name="contact4">Assiociate Pastor</string>
+    <string name="contact5">Gloria Y. Menjor</string>
+    <string name="contact6">Council Chairperson</string>
+    <string name="contact7">Francis K. Zazay</string>
+    <string name="contact8">Lay Leader</string>
+    <string name="contact9">I Stanton Railly</string>
+    <string name="contact10">Finance Officer</string>
+    <string name="contact12">Princess Barkket</string>
+    <string name="contact13">Administrator</string>
+    <string name="contact14">0775102955/0886102955</string>
+    <string name="contact15">leon.tyes@gmail.com</string>
+    <string name="menu1">Developer Info</string>
+    <string name="menu2">About</string>
+    <string name="song1">*To be lead by the choir and organist</string>
+    <string name="song2">STNUMC Welcome song.</string>
+    <string name="song3">Friends you’re welcome to worship with us today, feel at home as you worship with us, we appreciate your coming, may the Lord richly bless you, we hope you come again..</string>
+    <string name="song4">STNUMC Birthday song.</string>
+    <string name="song5">Happy birthday to you, may God richly bless you, may your christian light be seen, may your christian light be seen, happy birthday to you..</string>
+    <string name="song6">Happy birthday to you, may your love and beauty shine, may grace and peace and love abound, may prayers and services be around, happy birthday to you.</string>
+    <string name="song7">Offertory</string>
+    <string name="song8">We give thee all thine own, what ever the gift may be, All that we have is thine alone, A trust, O Lord, from thee... All that we have is thine alone, A trust, O Lord, from thee, Amen </string>
+    <string name="apostle1">Let us unite in the historic confession of the christian faith</string>
+    <string name="apostle2">I believe in God, the Father Almighty,
+creator of heaven and earth.\n\nI believe in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate,
+was crucified, died, and was buried;
+he descended to the dead. On the third day he rose again; he ascended into heaven, is seated at the right hand of the Father, and will come again to judge the living and the dead.\n \nI believe in the Holy Spirit,
+the holy christian church,
+the communion of saints,
+the forgiveness of sins,
+the resurrection of the body,
+and the life everlasting. \n\nAmen.
+</string>
+    <string name="prayer1">Prayer of Illumination and Reading of the word of God</string>
+    <string name="prayer2">O Lord, give us retentive minds to listen and obey your word as it is read and preach to us through the power of your Holy Spirit, Amen.</string>
+    <string name="prayer3">Benediction</string>
+    <string name="prayer4">Today worship service reminds us that we
+have experience the transforming spirit of
+God by fellowshipping, singing songs, praying, giving our gifts, hearing the scriptures, and the message, We are called upon, to go to our different communities and the nation as renewed people as we witness for christ through love, joy, peace and hope.</string>
+    <string name="prayer5">We go from this place of worship as transformed people to reach all races, the unreachable, the sick, the needy, the rich, the poor, the children, the abused, the physically challenged in the name of Jesus Christ.</string>
+    <string name="prayer6">Go in peace,</string>
+    <string name="prayer7">Amen</string>
+    <string name="get_started_name">S T Nagbe</string>
+    <string name="get_text_two">United Methodist Church</string>
+    <string name="sponsor">Presented for the glory of God by father Adolphus M. Johnson in honor of Mother Decontee Gbah</string>
+    <string name="bulletin_head">THE LORD SUPPER</string>
+    <string name="bulletin">The Lord be with you</string>
+    <string name="bulletin1">And also with you.</string>
+    <string name="bulletin2">Lift up your hearts.</string>
+    <string name="bulletin3">We lift them up to the Lord.</string>
+    <string name="bulletin4">Let us give thanks to the Lord our God.</string>
+    <string name="bulletin5">It is right to give our thanks and praise.</string>
+    <string name="bulletin6">Father, It is right that we should always and everywhere give you thanks and praise, Only you are God. You created all things and called them good. You made us in your own image. Even though we rebelled against your love, you did not desert us. You delivered us from captivity, made covenant to be our sovereign God, and spoke to us through the prophets. \nTherefore we join the entire company of heaven and all our people on earth in worshipping and glorifying you;</string>
+    <string name="bulletin7">Holy, holy, holy Lord, God of power and might, heaven and earth are full of your glory. Hosanna in the highest.
+Blessed is he who comes in the name of the Lord. Hosanna in the highest.</string>
+    <string name="bulletin8">We thank you holy Lord God, that you love the world so much, You send you only son to be our Savior. the Lord of all life came to live among us. He healed and taught, ate with sinners and won for you a new people by water and the Spirit.  He healed the sick, fed the hungry, and ate with sinners and won for you a new people by water and the Spirit. We saw his glory. Yet he humble himself in obedience to you will, freely accepting death on the cross, by dying, he freed us from unending death; by rising from the death, he gave us everlasting life, On the night in which he gave himself up for us,
+the Lord Jesus took bread, After giving thanks, he broke the bread, gave it to his disciples and said, Take, eat, this is my body which is given for you. When the supper was over, he took the cup,
+Again he return thanks to you, gave the cup to his disciples, and said: Drink from this, all of you; this is my cup of the new covenant in my blood, poured out for you and for many for the forgiveness of sins.
+When we eat this bread and drink this cup, we experience a new, the presence of the Lord Jesus Christ and look forward to his coming in final victory</string>
+    <string name="bulletin9">Christ has died, Christ is risen, Christ will come again.</string>
+    <string name="bulletin10">We experience a new, most merciful God, the suffering and death, the resurrection and ascension of your son, asking you to accept this our sacrifice of praise and thanksgiving, which we offer in union with Christs offering for us, as a living and holy surrender of ourselves.
+Send the power of your Holy Spirit on us, gathered here out of love for you, and on these gifts. May the Spirit help us know in the breaking of this bread the presence of Christ who gave his body and blood for all. And may the Spirit make us one with Christ, One with each other, and one in service to all the
+        world all glory and honor is yours, Almighty Father now and forever, Amen. \n\nAnd now with the confidence of the children of God, let us pray;
+</string>
+    <string name="bulletin12">THE LORDS PRAYER(everybody)</string>
+    <string name="bulletin13">Our Father in heaven,
+hallowed be your name,
+your kingdom come,
+your will be done,
+on earth as in heaven.
+Give us today our daily bread.
+Forgive us our sins
+as we forgive those who sin against us.
+Save us from the time of trial,
+and deliver us from evil.
+For the kingdom, the power, and the glory are yours
+now and for ever.
+
+Amen.</string>
+
+    <string name="bulletin14">BREAKING THE BREAD \n \nThe Minister breaks the bread in silence, or while saying: Because there is one loaf, we, many as we are are one body, For it is one loaf of which we all partake
+    when we break the bread, Is it not the shearing in the body of Christ? \n \nThe Minister lifts up the cup in silence, or while saying: When we give thanks over the cup, is it not a sharing in the blood of Christ?</string>
+    <string name="bulletin15">THE BODY OF CHRIST, GIVEN FOR YOU. AMEN \nTHE BLOOD OF CHRIST, GIVEN FOR YOU. AMEN</string>
+    <string name="bulletin16">GIVING THE BREAD AND CUP</string>
+    <string name="bulletin17">The congregation sing hymns.  \n\nPRAYER AFTER COMMUNION</string>
+    <string name="bulletin18">You have given yourself to us, Lord \n\n  *Now we give ourselves for others \n\nYour love has made us a mew people: \n\n  *As a people of love we will serve you with joy \n\nYour glory has filled our hearts: \n\n  *Help us to glorify you in all things.\nAmen
+    \n\nDISMISSAL WITH BLESSING\n\nGo in peace to serve God and your neighbor in all that you do \n \n *We are sent in Christ name \n\nThe grace of the Lord Jesus Christ, the love of God and the communion of the Holy Spirit be with you all \n\n  *Amen.</string>
+
+
+</resources>
